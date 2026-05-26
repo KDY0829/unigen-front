@@ -3,6 +3,12 @@
 > 일반 사용자와 시니어 사용자를 함께 고려한 Dual Mode SNS 플랫폼의 React 프론트엔드
 
 <p align="center">
+  <a href="https://www.notion.so/325441f66d78810f809ec11f775eb92c?pvs=1">
+    <img src="https://img.shields.io/badge/Notion%20Project%20Page-View%20Details-7C3AED?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Project Page" />
+  </a>
+</p>
+
+<p align="center">
   <img src="./assets/unigen-dual-mode.png" width="88%" alt="UniGen 일반 모드와 시니어 모드 비교 화면" />
 </p>
 
