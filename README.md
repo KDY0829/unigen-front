@@ -12,6 +12,10 @@
 </table>
 
 <p align="center">
+  <video src="./assets/Unigen.mp4" width="88%" controls></video>
+</p>
+
+<p align="center">
   <img src="./assets/unigen-dual-mode.png" width="88%" alt="UniGen 일반 모드와 시니어 모드 비교 화면" />
 </p>
 
