@@ -12,11 +12,10 @@
 </table>
 
 <p align="center">
-  <video src="./assets/Unigen.mp4" width="88%" controls></video>
-</p>
-
-<p align="center">
-  <img src="./assets/unigen-dual-mode.png" width="88%" alt="UniGen 일반 모드와 시니어 모드 비교 화면" />
+  <a href="https://github.com/KDY0829/unigen-front/raw/main/assets/Unigen.mp4">
+    <img src="./assets/unigen-dual-mode.png" width="88%" alt="UniGen 실행 영상" />
+  </a><br />
+  <sub>▶ 이미지를 클릭하면 실행 영상을 볼 수 있습니다.</sub>
 </p>
 
 ## ✨ Highlights
